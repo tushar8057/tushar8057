@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="DALL·E 2025-02-06 11.09.12 - A futuristic GitHub banner for a Data Scientist and Analytics professional. The design features a dark-themed background with blue and purple neon hig.webp" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Tushar 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
