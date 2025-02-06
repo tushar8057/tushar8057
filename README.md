@@ -52,7 +52,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,mysql,bootstrap,anaconda,git,html,css,javascript,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,aws,c,java,flask,pytorch,discord,ai,opencv,pytorch,sklearn,tensorflow," /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,aws,c,java,flask,discord,ai,opencv,pytorch,sklearn,tensorflow," /><br>
 </div>
 
 <br/>
@@ -74,16 +74,14 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar8057&show_icons=true&locale=en&layout=compact" alt="tushar8057" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar8057&" alt="tushar8057" />
-  </div>
-  <div>
-    <img src="https://github-contributor-stats.vercel.app/api?username=tushar8057&limit=5&theme=default&combine_all_yearly_contributions=true" alt="tushar8057" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar8057&show_icons=true&locale=en" alt="tushar8057" />
-  </div>
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar8057" alt="tushar8057" /></a></p>
+    <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=tushar8057" alt="GitHub Streak" /></a>
+    <img src="https://github-contributor-stats.vercel.app/api?username=tushar8057&limit=5&theme=default&combine_all_yearly_contributions=true" alt="tushar8057" />
+    <p>
+        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar8057" alt="tushar8057" /></a>
+    </p>
 </div>
 
 <br/><br/>
